@@ -3,7 +3,7 @@ body {
 }
 h1{
   text-align: center;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid gray;
   margin: 0px;
   padding: 20px
 }
@@ -12,7 +12,7 @@ a {
   color: black;
 }
 ol {
-  border-right: 2px solid black;
+  border-right: 2px solid gray;
   width: 100px;
   margin: 0px;
   padding: 20px
